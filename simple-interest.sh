@@ -4,9 +4,9 @@
 
    # Do not use this in production. Sample purpose only.
 
-   # Author: Upkar Lidder (IBM)
+   # Author: Ahtisham
    # Additional Authors:
-   # <your GitHub username>
+   # shaikhcoder
 
    # Input:
    # p, principal amount
